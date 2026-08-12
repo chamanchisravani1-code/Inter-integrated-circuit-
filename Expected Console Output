@@ -1,0 +1,13 @@
+VCD info: dumpfile i2c.vcd opened for output.
+
+---------------------------------------
+       I2C MASTER-SLAVE SIMULATION
+---------------------------------------
+Slave Address = 1010000
+Data to Send  = a5
+
+---------------------------------------
+Transmission Completed
+Received Data = a5
+Data Valid    = 1
+---------------------------------------
